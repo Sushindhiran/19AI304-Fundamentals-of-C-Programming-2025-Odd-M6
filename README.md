@@ -65,6 +65,7 @@ int main(){
 
 # Output:
 
+![WhatsApp Image 2025-12-10 at 2 05 44 PM](https://github.com/user-attachments/assets/baedbe23-556e-4ce7-8cd2-240abf0c4ba6)
 
 
 # Result: 
